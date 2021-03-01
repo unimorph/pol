@@ -3,9 +3,9 @@
 
 Polish
 
+## Data
 
-
-Source: Słownik gramatyczny języka polskiego (Grammatical Dictionary of Polish), [sgjp.pl](https://sgjp.pl)
+Source: [Słownik gramatyczny języka polskiego](https://sgjp.pl) (Grammatical Dictionary of Polish)
 
 Authors: Marcin Woliński, Zygmunt Saloni, Robert Wołosz, Włodzimierz Gruszczyński, Danuta Skowrońska, Zbigniew Bronk
 
