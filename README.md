@@ -1,9 +1,13 @@
 # pol
 
+Contains paradigms for Polish
 
-Polish
+-- pol: Wiktionary
+-- pol.zip (see below)
 
 ## Data
+
+pol.zip:
 
 Source: [Słownik gramatyczny języka polskiego](https://sgjp.pl) (Grammatical Dictionary of Polish)
 
