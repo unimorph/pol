@@ -2,8 +2,10 @@
 
 Contains paradigms for Polish
 
--- pol: Wiktionary
 -- pol.zip (see below)
+
+-- pol: Wiktionary
+
 
 ## Data
 
