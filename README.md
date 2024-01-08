@@ -11,7 +11,7 @@ Contains paradigms for Polish
 
 pol.zip:
 
-Source: [Słownik gramatyczny języka polskiego](https://sgjp.pl) (Grammatical Dictionary of Polish)
+Source: [Słownik gramatyczny języka polskiego](http://sgjp.pl) (Grammatical Dictionary of Polish)
 
 Authors: Marcin Woliński, Zygmunt Saloni, Robert Wołosz, Włodzimierz Gruszczyński, Danuta Skowrońska, Zbigniew Bronk
 
