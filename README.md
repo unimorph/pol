@@ -2,7 +2,7 @@
 
 Contains paradigms for Polish
 
--- pol.zip (see below)
+-- pol.xz (see below)
 
 -- pol: Wiktionary
 
