@@ -9,7 +9,7 @@ Contains paradigms for Polish
 
 ## Data
 
-pol.zip:
+pol.xz:
 
 Source: [Słownik gramatyczny języka polskiego](http://sgjp.pl) (Grammatical Dictionary of Polish)
 
